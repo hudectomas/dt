@@ -1,0 +1,103 @@
+[
+    {
+      "boat_id": "B123",
+      "first_name": "Eva",
+      "last_name": "Nováková",
+      "gender": "Female",
+      "age": 28,
+      "survived": true,
+      "SibSp": 1,
+      "ParCh": 0,
+      "family_size": 2,
+      "Addresses": {
+          "street": "Hlavná 123",
+          "postal_code": "98765",
+          "town": "Banská Bystrica",
+          "country": "Slovensko",
+          "state": "Banskobystrický kraj"
+      },
+      "Tickets": {
+          "ticket_code": "T456",
+          "ticket_count": 1,
+          "fare": 120.5,
+          "purchase_date": "2024-05-29",
+          "boarding_port": "Prístav A",
+          "port_id": { "port_name": "Prístav A" },
+          "Cabins": {
+              "cabin_name": "Kajuta C",
+              "cabin_number": "C2",
+              "deck": "Horný palubný priestor"
+          },
+          "destination_port": "Prístav B",
+          "Pclass": { "pClass": 2, "description": "Druhá trieda" }
+      }
+  },
+  {
+      "boat_id": "A789",
+      "first_name": "Peter",
+      "last_name": "Kováč",
+      "gender": "Male",
+      "age": 45,
+      "survived": false,
+      "SibSp": 0,
+      "ParCh": 1,
+      "family_size": 2,
+      "Addresses": {
+          "street": "Družstevná 456",
+          "postal_code": "54321",
+          "town": "Zvolen",
+          "country": "Slovensko",
+          "state": "Banskobystrický kraj"
+      },
+      "Tickets": {
+          "ticket_code": "T789",
+          "ticket_count": 2,
+          "fare": 80.0,
+          "purchase_date": "2024-05-29",
+          "boarding_port": "Prístav C",
+          "port_id": { "port_name": "Prístav C" },
+          "Cabins": {
+              "cabin_name": "Kajuta B",
+              "cabin_number": "B3",
+              "deck": "Stredný palubný priestor"
+          },
+          "destination_port": "Prístav D",
+          "Pclass": { "pClass": 3, "description": "Tretia trieda" }
+      }
+  },
+  {
+      "boat_id": "C456",
+      "first_name": "Jana",
+      "last_name": "Hodáková",
+      "gender": "Female",
+      "age": 22,
+      "survived": true,
+      "SibSp": 2,
+      "ParCh": 2,
+      "family_size": 5,
+      "Addresses": {
+          "street": "Námestie SNP 789",
+          "postal_code": "12345",
+          "town": "Banská Bystrica",
+          "country": "Slovensko",
+          "state": "Banskobystrický kraj"
+      },
+      "Tickets": {
+          "ticket_code": "T123",
+          "ticket_count": 1,
+          "fare": 150.75,
+          "purchase_date": "2024-05-29",
+          "boarding_port": "Prístav A",
+          "port_id": { "port_name": "Prístav A" },
+          "Cabins": {
+              "cabin_name": "Kajuta A",
+              "cabin_number": "A2",
+              "deck": "Spodný palubný priestor"
+          },
+          "destination_port": "Prístav B",
+          "Pclass": { "pClass": 1, "description": "Prvá trieda" }
+      }
+  }
+  
+  ]
+  
