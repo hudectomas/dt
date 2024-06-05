@@ -1,0 +1,16 @@
+[{
+        "capacity": 30,
+        "launchTime": "2023-05-01T08:00:00Z",
+        "survivorsCount": 28
+    },
+    {
+        "capacity": 25,
+        "launchTime": "2023-05-02T10:30:00Z",
+        "survivorsCount": 25
+    },
+    {
+        "capacity": 50,
+        "launchTime": "2023-05-03T15:45:00Z",
+        "survivorsCount": 45
+    }
+]
